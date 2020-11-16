@@ -1,1 +1,1 @@
-![FMradio_alarmclock_schematic showcase](Screenshots/FMradio_alarmclock_schematic.PNG)
+![FMradio_alarmclock_schematic showcase](FMradio_alarmclock_schematic.png)
