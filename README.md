@@ -1,6 +1,9 @@
 # FM Radio Alarm Clock 
 This radio alarm clock was built over a couple of weeks with the use of an Arduino UNO R3, LCD1602, and various electronic components. 
 
+# Circuit Schematic
+![FMradio_alarmclock_schematic showcase](Screenshots/FMradio_alarmclock_schematic.png)
+
 # Components List
 * 1 x Arduino UNO R3
 * 1 x LCD1602
@@ -20,5 +23,7 @@ This radio alarm clock was built over a couple of weeks with the use of an Ardui
 * 1 x Antenna
 * 2 x 2n3904 NPN Transistor
 
-# Circuit Schematic
-![FMradio_alarmclock_schematic showcase](Screenshots/FMradio_alarmclock_schematic.png)
+# Required Software
+To operate this project you will need to have the Arduino IDE so that you can upload the code to the Arduino UNO R3.
+You can download this IDE for free at this link: https://www.arduino.cc/en/software
+
