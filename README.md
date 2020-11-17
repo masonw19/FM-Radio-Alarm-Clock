@@ -6,7 +6,8 @@ This radio alarm clock was built over a couple of weeks with the use of an Ardui
 * 1 x LCD1602
 * 3 x Tactile Push Button
 * 1 x Red LED
-* 5 x 2kOhm Resistor
+* 4 x 2kOhm Resistor
+* 1 x 220Ohm Resistor
 * 1 x 22kOhm Resistor
 * 2 x 10kOhm Potentiometer
 * 1 x 450uF Capacitor
