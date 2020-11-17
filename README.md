@@ -17,6 +17,7 @@ This radio alarm clock was built over a couple of weeks with the use of an Ardui
 * 1 x 0.117uH Inductor (made with 24 Guage Magnetic Wire)
 * 1 x LM386 Low Voltage Audio Power Amplifier
 * 1 x 4Ohm 3W Audio Speaker
+* 1 x Antenna
 * 2 x 2n3904 NPN Transistor
 
 # Circuit Schematic
