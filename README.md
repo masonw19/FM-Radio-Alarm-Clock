@@ -30,6 +30,10 @@ You can download this IDE for free at this link: https://www.arduino.cc/en/softw
 
 ## About
 ### Alarm Clock
+The alarm clock is operated with three buttons. Button 1 on the schematic is used to increment the the time variables for either setting the
+time or the alarm. Button 2 in the schematic is used to iterate through the time variable we will increment with Button 1. If we have Button 3 
+pressed down and we click Button 1, we will be able to change between the alarm and the time screen. Button 3 can also be clicked to stop the alarm
+once it has started. 
 
 ### FM Radio
 
