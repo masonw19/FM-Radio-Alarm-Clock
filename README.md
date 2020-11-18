@@ -53,5 +53,8 @@ frequency modulated wave. This frequency modulated wave is then capacitor couple
 transmitted to pin 3 of the LM386 IC for amplifcation. The 10kOhm potentiometer at the input of the LM386 can be adjusted to alter the volume of 
 the radio. The output of the LM386 then connects to a speaker so that the FM signals are audible.
 
+## Reflection
+
+
 
 
