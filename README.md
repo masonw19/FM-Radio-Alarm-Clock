@@ -31,7 +31,7 @@ You can download this IDE for free at this link: https://www.arduino.cc/en/softw
 ![FMradio_alarmclock_schematic showcase](Screenshots/FMradio_alarmclock_schematic.png)
 
 ## About
-### Alarm Clock
+#### Alarm Clock
 The alarm clock is operated with three buttons. Button 1 on the schematic is used to increment the the time variables (minute, hour, day, am/pm) for either setting the
 time or the alarm. Button 2 in the schematic is used to iterate through the time variable we will increment with Button 1. If we have Button 3 
 pressed down and we click Button 1, we will be able to change between the alarm and the time screens. Button 3 can also be clicked to stop the alarm
@@ -42,7 +42,7 @@ every second to keep track of the time.
 
 If you turn off the clock you will have to manually set the time and alarm the next time you turn it back on. 
 
-### FM Radio
+#### FM Radio
 The variable capacitor in parallel with the inductor forms a tank circuit which produces electrical oscillations. The way that this circuit works is by
 first charging up the capacitor and then discharging it to charge the inductor. As current flows in the inductor, the inductor creates a magnetic
 field. When the magnetic field breaks down the inductor will release its stored energy and now the opposite side of the capacitor will become charged. 
