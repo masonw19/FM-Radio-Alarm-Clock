@@ -1,5 +1,7 @@
 # FM Radio Alarm Clock 
 This radio alarm clock was built over a couple of weeks with the use of an Arduino UNO R3, LCD1602, and various electronic components. 
+This project allows the user to change the current time and set an alarm that will turn on an FM radio when the alarm gets reached. 
+The user is also able to adjust the volume from the radio as well as tune it to change stations. 
 
 ## Components List
 * 1 x Arduino UNO R3
